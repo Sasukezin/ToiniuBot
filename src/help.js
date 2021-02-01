@@ -1,11 +1,11 @@
 const help = (prefix) => {
 	return `
-「 *Toin BOT* 」
+「 *𝐄𝐑𝐄𝐍 𝐁𝐎𝐓* 」
 
 ◪ *informações*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Criador : Toin
-  ❏ Como instalar o BOT: https://www.youtube.com/watch?v=4cjhlXo9aGo
+  ❏ Criador : 𝐆𝐀𝐀𝐑𝐀𝐙𝐈𝐍𝐇𝐎 愛
+  ❏ Suporte : wa.me/559684081026
 
 ◪ *SOBRE*
   │
